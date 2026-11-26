@@ -35,6 +35,11 @@ docker exec -it chat_client2 python client.py
    docker-compose down
    ```
 
+exercise-1
+<img width="1920" height="1080" alt="Screenshot 2026-11-26 095420" src="https://github.com/user-attachments/assets/06131eb1-cb97-47a3-b110-72ee92d4245a" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-26 095442" src="https://github.com/user-attachments/assets/e02cb2b2-1767-439f-a22a-a008393b7d06" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-26 095452" src="https://github.com/user-attachments/assets/23e75495-d2e6-46c5-87cf-67b5f81dc0f0" />
+
 ---
 
 ## 🌐 แบบฝึกหัดที่ 2: Web Application เชื่อมต่อ Socket Server
@@ -58,3 +63,8 @@ docker exec -it chat_client2 python client.py
    ```bash
    docker-compose down
    ```
+
+   exercise-2
+   <img width="1920" height="1080" alt="Screenshot 2026-11-26 103322" src="https://github.com/user-attachments/assets/68511e90-72be-4c10-9751-33b4c4f8f187" />
+   <img width="1920" height="1080" alt="Screenshot 2026-11-26 100919" src="https://github.com/user-attachments/assets/9183276f-1edb-4363-af6f-b88728ce1191" />
+   
